@@ -1,0 +1,11 @@
+@layer utilities {
+  .bg-submit {
+    background-color:green; 
+  }
+  .bg-havetime{
+      background-color: grey;
+  }
+  .bg-failed {
+    background-color: red;
+  }
+}
